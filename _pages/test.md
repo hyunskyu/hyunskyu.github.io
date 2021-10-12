@@ -1,6 +1,6 @@
 ---
 title: 하나 더 작성
-permalink: /posts/
+permalink: /posts/2
 layout: single
 ---
 
