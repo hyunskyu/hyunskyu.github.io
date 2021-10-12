@@ -3,6 +3,7 @@
 title: "Test용"
 permalink: /posts/
 layout: single
+use_math: true
 ---
 
 # Create New Map Point
